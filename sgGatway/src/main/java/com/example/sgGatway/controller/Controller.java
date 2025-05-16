@@ -38,6 +38,9 @@ public class Controller {
 	@GetMapping("/validateToken")
 	public boolean String()
 	{
+		//testing purpous git pull and push
+		System.out.println("git pull and push test");
+
 		return true;
 	}
 	
